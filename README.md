@@ -1,3 +1,2 @@
 # hello-world
-First ever repository
-Hello! It's nice to be here.
+Hello there! It's nice to be here.
